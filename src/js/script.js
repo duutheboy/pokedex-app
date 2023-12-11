@@ -4,11 +4,11 @@ const pokemonName = document.querySelector('.pokemon_name');
 const pokemonNumber = document.querySelector('.pokemon_number')
 const pokemonImage = document.querySelector('.pokemon_image')
 
-//Formlário de pesquisa
+//Formulário de pesquisa
 const form = document.querySelector('.form');
 const input = document.querySelector('.input_search');
 
-//Butões de próximo e anterior
+//Botões de próximo e anterior
 const btnPrev = document.querySelector('.btn-prev')
 const btnNext = document.querySelector('.btn-next')
 
