@@ -9,7 +9,6 @@ O objetivo deste projeto é criar uma Pokedex digital que permita aos usuários 
 ## Funcionalidades
 
 - **Pesquisa de Pokémon:** Utiliza a API do PokeAPI para obter dados detalhados sobre os Pokémon, incluindo habilidades, tipos, estatísticas, etc.
-- **Exibição de Detalhes:** Mostra informações específicas de cada Pokémon selecionado na interface do usuário.
 - **Navegação entre Pokémon:** Permite aos usuários navegar entre diferentes Pokémon disponíveis na Pokedex.
 
 ## Tecnologias Utilizadas
